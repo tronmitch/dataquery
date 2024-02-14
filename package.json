@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "i": "^0.3.7",
+    "inquirer": "^8.2.4",
+    "npm": "^10.4.0",
+    "save": "^2.9.0"
+  },
+  "name": "data",
+  "version": "1.0.0",
+  "description": "not sure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
